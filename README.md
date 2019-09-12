@@ -24,6 +24,7 @@ I decided to not track usage for the plugin. It's completly local and it stays t
 # How It Works?
 ## Animation
 It starts the animation on double speed, skips through the animation automatically.
+![](https://i.imgur.com/s6N4NBh.gif)
 
 ## Multiple choice
 It selects all the answers and since the correct answer is in it too, the webpage will mark it as completed.
