@@ -10,9 +10,13 @@ So far it can
 # Installation
 This plugin is not in the chrome store so you will have to install it manually -- which is not hard.
 0- Clone or download this repo.
+
 1- Head to chrome://extensions/
+
 2- Turn on developer mode.
+
 3- Load unpacked and select the root folder of the plugin.
+
 
 # Big Brother
 I decided to not track usage for the plugin. It's completly local and it stays that way. The plugin does not log your online behavior and is only activated on ZyBooks domains.
